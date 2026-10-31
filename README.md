@@ -1,10 +1,11 @@
-### Hi, I'm Jaren 👋
+### Hi 👋 I'm Jaren
 
-Full stack engineer building developer platform and AI tooling: MCP servers, CI guardrails for agent-written code, and hybrid search. TypeScript, React, Node.js, Rust.
+I love problem solving and learning. I like finding pains in my life and fixing them. I enjoy tinkering with small electronics, 3D printing, coding, and homelab stuff. AI has accelerated what I'm able to do, and I'm always looking for ways to make it improve and expand my skills.
 
-- **[wayfinder-cli](https://github.com/JarenKempton/wayfinder-cli)**: work orchestration across trackers, agent harnesses and models
-- **[burn](https://github.com/JarenKempton/burn)**: local-first observability for AI usage and limits (Claude Code, Codex, OpenRouter)
-- **[time-switch](https://github.com/JarenKempton/time-switch)**: ESP32 desk time switch with a Cloudflare Workers dashboard
-- Upstream: [ggml build fix](https://github.com/jankeesvw/omarchy-meeting-recorder/pull/6) for omarchy-meeting-recorder releases on CPUs without AVX-512
+Feel free to check out some of my projects in my [portfolio](https://jarenkempton.dev).
 
-[Portfolio](https://portfolio-site-five-mocha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jaren-kempton/) · [Résumé](https://portfolio-site-five-mocha.vercel.app/resume.pdf)
+[Portfolio](https://jarenkempton.dev) · [LinkedIn](https://www.linkedin.com/in/jaren-kempton/) · [Résumé](https://jarenkempton.dev/resume.pdf)
+
+
+
+
